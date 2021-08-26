@@ -1,0 +1,11 @@
+create table alunos (
+id SERIAL PRIMARY KEY NOT NULL,
+	data DATE NOT NULL,
+	nome VARCHAR (50) not null,
+	data_nascimento VARCHAR (10) not null,
+	cpf numeric (20) not null,
+	telefone numeric (20) not null,
+	endereço VARCHAR (50) not null,
+	bairro VARCHAR (30) not null,
+	id_aluno numeric (20) not null
+)

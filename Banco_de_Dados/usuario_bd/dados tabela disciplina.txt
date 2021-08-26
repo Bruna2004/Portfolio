@@ -1,0 +1,2 @@
+INSERT INTO disciplina (Nome, carga_horaria, conteudo)
+VALUES ('Matemática','50', 'Teorema de Pitágoras' );

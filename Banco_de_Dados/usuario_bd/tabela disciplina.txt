@@ -1,0 +1,7 @@
+create table disciplina (
+id SERIAL PRIMARY KEY NOT NULL,
+	data DATE NOT NULL,
+	nome VARCHAR (50) not null,
+	carga_horaria numeric (20) not null,
+	conteudo VARCHAR (50)
+)

@@ -1,0 +1,7 @@
+create table matriculas (
+id SERIAL PRIMARY KEY NOT NULL,
+	data DATE NOT NULL,
+	nome_disciplina VARCHAR (50) not null,
+	codigo_aluno numeric (20) not null,
+	turma_aluno VARCHAR (20)
+)

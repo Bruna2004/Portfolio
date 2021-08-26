@@ -1,0 +1,2 @@
+INSERT INTO matriculas (cod_aluno, nome_disciplina, turma_aluno)
+VALUES (562358, 'Matemática', 512)

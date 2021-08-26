@@ -1,0 +1,2 @@
+INSERT INTO alunos (Nome, data_nascimento, cpf, telefone, endereço, bairro, id_aluno)
+VALUES ('Rogerio', '25/05/2021', 12345678910, 32425689, 'avenida Elza Luchhi', 'Ponte do Imaruim', 562358);
